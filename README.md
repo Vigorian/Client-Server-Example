@@ -1,4 +1,4 @@
 Client-Server-Example
 =====================
 
-Basic Client &lt;-> Server example.
+Basic Client ↔ Server example.
